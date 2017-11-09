@@ -1,7 +1,5 @@
 # Gary
 
-[TOC]
-
 ## What's this?
 
 Gary is the friend you never had whilst programming CLI tools. He tries to help you out whenever, wherever you need help.
